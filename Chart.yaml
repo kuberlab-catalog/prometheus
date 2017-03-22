@@ -1,0 +1,11 @@
+name: prometheus
+version: 2.0.4
+description: A Prometheus Helm chart for Kubernetes. Prometheus is a monitoring system and time series database.
+home: https://prometheus.io/
+sources:
+  - https://github.com/prometheus/alertmanager
+  - https://github.com/prometheus/prometheus
+maintainers:
+  - name: Michael Goodness
+    email: mgoodness@gmail.com
+engine: gotpl
